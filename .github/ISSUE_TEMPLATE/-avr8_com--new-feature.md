@@ -1,7 +1,7 @@
 ---
-name: "[avr8_com]"
-about: Suggest an idea for this project
-title: ''
+name: "[avr8_com] new feature"
+about: "[avr8_com]"
+title: "[avr8_com]"
 labels: enhancement
 assignees: vroncevic
 
