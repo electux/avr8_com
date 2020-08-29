@@ -1,0 +1,4 @@
+MCU:
+    atmega328p
+OSC:
+    16000000UL
